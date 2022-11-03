@@ -1,2 +1,2 @@
-# CSS-JS-materials-share
-CSS&amp;JS学习资料
+# JS-materials-share
+JS学习资料
